@@ -1,1 +1,1 @@
-# terraform_automation.env0
+# Testing Terraform Automation using env0
